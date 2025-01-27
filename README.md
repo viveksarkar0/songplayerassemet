@@ -9,8 +9,8 @@ if you want to show the detail click on the below music titile
 ![Uploading Screenshot 2025-01-27 at 8.13.51 PM.png…]()
 
 
-api docs
-Here's a short explanation for your API functions to include in a README:
+
+Here's a short explanation for API functions to include in a README:
 
 ---
 
